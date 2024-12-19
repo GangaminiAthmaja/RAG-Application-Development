@@ -1,2 +1,3 @@
 # RAG-Application-Development
-Retrieval-Augmented Generation (RAG) Application Development
+
+I developed a cutting-edge Retrieval-Augmented Generation (RAG) application using LangChain and Hugging Face, combining retrieval-based and generation-based NLP models. This project enhanced text generation by integrating advanced retrieval mechanisms, improving contextual relevance and accuracy. Through this, I demonstrated my expertise in natural language processing (NLP), machine learning, and AI-driven content generation. I utilized LangChain for workflow orchestration and Hugging Face for model deployment, delivering a robust and scalable solution for real-world applications.
